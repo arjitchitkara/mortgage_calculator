@@ -20,7 +20,6 @@ Ensure you have the following installed:
 2. **Enter the Interest Rate:** The annual interest rate (in percentage).
 3. **Enter the Tenure:** The number of years you intend to repay the mortgage.
 4. **Click "Calculate":** This will display your monthly mortgage payment breakdown.
-5. **(Optional) Export:** Use the "Export" button to save the details as a CSV file.
 
 ## Contributing :handshake:
 
